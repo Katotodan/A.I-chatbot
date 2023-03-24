@@ -1,0 +1,1 @@
+This is a student affairs office assistant which answer some questions about academic support, career service, financial aid, student life, etc. For more question the chatbot will direct you to the appropriated office.
